@@ -15,6 +15,7 @@ https://www.futuretools.io/
 
 read
 https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1
+https://www.youtube.com/@gpumode
 
 
 workflow/aidev
