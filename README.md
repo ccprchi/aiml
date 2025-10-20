@@ -21,3 +21,8 @@ https://www.youtube.com/@gpumode
 workflow/aidev
 https://n8n.io/
 crewai.com
+
+audio/video tools
+https://elevenlabs.io
+https://www.synthesia.io/features/avatars
+https://bfl.ai/
