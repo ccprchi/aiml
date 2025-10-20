@@ -21,6 +21,11 @@ https://www.youtube.com/@gpumode
 workflow/aidev
 https://n8n.io/
 crewai.com
+https://replit.com/
+
+
+open models
+https://allenai.org/
 
 audio/video tools
 https://elevenlabs.io
