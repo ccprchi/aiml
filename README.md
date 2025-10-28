@@ -31,3 +31,9 @@ audio/video tools
 https://elevenlabs.io
 https://www.synthesia.io/features/avatars
 https://bfl.ai/
+
+
+Chinese AI 
+DeepSeek
+M2 from MiniMax
+Kimi from Moonshot
